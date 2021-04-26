@@ -3,12 +3,14 @@
 ## General Instructions
 
 ### Timeframe
-You may work on this part of the lab practical exam from the time it is posted on-line until 11:59 PM on Wednesday April 29.  At 11:59 PM on April 29 a snapshot of your GitHub repo will be automatically submitted.
+You may work on this part of the lab practical exam only for two hours and only during your scheduled lab time on Tuesday, April 27, 2021 (based on your HUB registration).
 
 **Please note:** if you do not finish all the coding during part 1 (a.k.a LPR1), don't worry - you can finish up during part 2 (a.k.a. LPR2), though you may not touch your repo between LPR1 and LPR2.  We give some implementation hints (see below).  Remember to show proper use of tools and techniques.
 
+**Please note:** In LPR2 you will receive buggy code so you can use gdb to track down a segfault and valgrind/memcheck to document and fix memory leaks.
+
 ### Resources
-You may use any prior work you have done for this course (any earlier LEXes, PRE, EXP01, EXP02, POST), any tool documentation, etc.  You may ask TAs (but not other students) questions during the lab practical, though they cannot answer all questions: this is an exam after all.  TAs will be available on Zoom during the regular lab times.  You may also ask questions on Piazza, and we will endeavour to answer them as quickly as possible (though keep in mind that we may not keep the same hours you do).
+You may use any prior work you have done for this course (any earlier LEXes, PRE, EXP01, EXP02, POST), any tool documentation, etc.  You may ask TAs (but not other students) questions during the lab practical, though they cannot answer all questions: this is an exam after all.  TAs will be available on Zoom during your regular lab time.  Between part 1 and part 2 you should may ask questions on Piazza, and we will endeavour to answer them as quickly as possible (though keep in mind that we may not keep the same hours you do).
 
 ### Repository & ZenHub integration
 Be sure to associate a ZenHub workspace/board with your GitHub repo.
@@ -53,6 +55,9 @@ Write functions to answer questions as follows:
 
 * `withinCalorieLimit(pantry,book,limit)` must return a new book (a set of recipes) containing those recipes from the input book which come in at fewer than the indicated calorie limit, per serving.
 
-## Hints and Advice
+## Advice
 
-**ADVICE** Obviously get as much done as you can on solving the problem, but keep in mind that it is more important to show mastery of the tools and techniques we've discussed than it is to just produce working code.  Make sure you write tests, measure the coverage of those tests, have a makefile to manage creating both a test and a non-test executable file, use git effectively.  In LPR2 you will demonstrate your facility with the debugger and the valgrind tool suite.
+**ADVICE** Your focus should be on gathering evidence that you are able to apply the development and debugging processes we have discussed throughout the semester, and that you can correctly and effectively use the tools covered.  Do NOT feel like you have to complete all the functionality: the exercise is designed to be too big to complete in the time given (so you don't run out of tasks to work on).
+
+**ADVICE** Carve out a subset of the requirements to focus on.  Be efficient.  Once you are comfortable with the evidence you have gathered for a given process/tool, move on.
+
