@@ -3,14 +3,14 @@
 ## General Instructions
 
 ### Timeframe
-You may work on this part of the lab practical exam only for two hours and only during your scheduled lab time on Tuesday, April 27, 2021 (based on your HUB registration).
+You may work on this part of the lab practical exam only for two hours and only during your scheduled lab time.
 
 **Please note:** if you do not finish all the coding during part 1 (a.k.a LPR1), don't worry - you can finish up during part 2 (a.k.a. LPR2), though you may not touch your repo between LPR1 and LPR2.  We give some implementation hints (see below).  Remember to show proper use of tools and techniques.
 
-**Please note:** In LPR2 you will receive buggy code so you can use gdb to track down a segfault and valgrind/memcheck to document and fix memory leaks.
+**Please note:** In LPR2 you will receive buggy code so you can use gdb to track down a segfault and valgrind/memcheck to document and fix memory leaks in case you did not find opportunities to showcase that in LPR1.  
 
 ### Resources
-You may use any prior work you have done for this course (any earlier LEXes, PRE, EXP01, EXP02, POST), any tool documentation, etc.  You may ask TAs (but not other students) questions during the lab practical, though they cannot answer all questions: this is an exam after all.  TAs will be available on Zoom during your regular lab time.  Between part 1 and part 2 you should may ask questions on Piazza, and we will endeavour to answer them as quickly as possible (though keep in mind that we may not keep the same hours you do).
+You may use any prior work *you* have done for this course (any earlier LEXes, PRE, EXP01, EXP02, POST), any tool documentation, etc.  You may ask TAs (but not other students) questions during the lab practical, though they cannot answer all questions: this is an exam after all.  TAs will be available during your regular lab time.  Between part 1 and part 2 you should may ask questions on Piazza (though (again) we cannot answer all questions: this is an exam after all).
 
 ### Repository & ZenHub integration
 Be sure to associate a ZenHub workspace/board with your GitHub repo.
@@ -61,3 +61,4 @@ Write functions to answer questions as follows:
 
 **ADVICE** Carve out a subset of the requirements to focus on.  Be efficient.  Once you are comfortable with the evidence you have gathered for a given process/tool, move on.
 
+**ADVICE** It is better to make many small commits so that your process is apparent.  E.g. show data before, during, and after a process step or tool usage to demonstrate clearly the order in which you did things, and the impact of each step you tool.  Remember also to push to your remote repo on GitHub.
