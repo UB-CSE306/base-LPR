@@ -5,7 +5,7 @@
 ### Timeframe
 You may work on this part of the lab practical exam only for two hours and only during your scheduled lab time.
 
-**Please note:** if you do not finish all the coding during part 1 (a.k.a LPR1), don't worry - you can finish up during part 2 (a.k.a. LPR2), though you may not touch your repo between LPR1 and LPR2.  We give some implementation hints (see below).  Remember to show proper use of tools and techniques.
+**Please note:** if you do not finish all the coding during part 1 (a.k.a LPR1), don't worry - you can finish up during part 2 (a.k.a. LPR2), though you may not modify your code/repo between LPR1 and LPR2.  We give some implementation hints (see below).  Remember to show proper use of tools and techniques.
 
 **Please note:** In LPR2 you will receive buggy code so you can use gdb to track down a segfault and valgrind/memcheck to document and fix memory leaks in case you did not find opportunities to showcase that in LPR1.  
 
