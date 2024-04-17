@@ -12,8 +12,8 @@ You may work on this part of the lab practical exam only for two hours and only 
 ### Resources
 You may use any prior work *you* have done for this course (any earlier LEXes, PRE, EXP01, EXP02, POST), any tool documentation, etc.  You may ask TAs (but not other students) questions during the lab practical, though they cannot answer all questions: this is an exam after all.  TAs will be available during your regular lab time.  Between part 1 and part 2 you should may ask questions on Piazza (though (again) we cannot answer all questions: this is an exam after all).
 
-### Repository & ZenHub integration
-Be sure to associate a ZenHub workspace/board with your GitHub repo.  Be sure to use only GitHub issues on this board, NOT ZenHub issues.
+### Repository & Trello integration
+Be sure to associate a Trello board with your GitHub repo.  Associate GitHub issues with relevant Trello cards.
 
 ## General Problem Description
 
