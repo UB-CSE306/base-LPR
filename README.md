@@ -12,8 +12,8 @@ You may work on this part of the lab practical exam only for two hours and only 
 ### Resources
 You may use any prior work *you* have done for this course (any earlier LEXes, PRE, EXP01, EXP02, POST), any tool documentation, etc.  You may ask TAs (but not other students) questions during the lab practical, though they cannot answer all questions: this is an exam after all.  TAs will be available during your regular lab time.  Between part 1 and part 2 you should may ask questions on Piazza (though (again) we cannot answer all questions: this is an exam after all).
 
-### Repository & Trello integration
-Be sure to associate a Trello board with your GitHub repo.  Associate GitHub issues with relevant Trello cards.  Be sure to include a link to your Trello board in a file named trello.txt and set the appropriate permissions so course staff can view it via the link. If the graders can't see your board they can't assess your work!
+### Repository & Kanban board integration
+Be sure to associate a kanban board with your GitHub repo: add links to git commits to the relevant cards on your board.  Be sure to include a link to your kanban board in a file named `kanban.txt` (this makes it easier for us to get to your board).
 
 ## General Problem Description
 
